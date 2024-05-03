@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.descrip{
+    height: 100px;
+    font-style: italic;
+    font-size: 10px;
+    min-height: 60px;
+    /* border: 1px solid black; */
+}
+.prodName{
+    min-height: 30px;
+    font-size: 10px;
+    font-weight: 800;
+    /* border: 1px solid black; */
+}
+.priceButton{
+    width: 150px;
+    color: antiquewhite;
+    background-color: red;
+    border-color: white;
+    border-radius: 7px;
+}

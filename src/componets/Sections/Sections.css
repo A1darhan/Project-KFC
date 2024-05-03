@@ -1,0 +1,18 @@
+
+.sectionsStyle{
+    position: sticky;
+    top: 160px;
+    cursor: pointer;
+    
+}
+span {
+    cursor: pointer;
+}
+.selected {
+    width: 30px;
+    height: 25px;
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+    padding-top: 6px;
+  }

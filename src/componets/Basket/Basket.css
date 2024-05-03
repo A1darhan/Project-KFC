@@ -1,0 +1,17 @@
+.tdName{
+    color: red;
+    font-weight: 700;
+    font-size: 15px;
+    width: 195px;
+}
+.totalPrice{
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+}
+.tdPrice{
+    width: 70px;
+}
+.tdQuantity{
+    width: 55px;
+}

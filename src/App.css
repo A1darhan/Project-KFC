@@ -1,0 +1,21 @@
+.App {
+  max-width: 1200px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+  align-items: center;
+}
+.main {
+  display: flex; 
+}
+.products {
+  flex-basis: 600px;
+  text-align: center;
+}
+.sections {
+  flex-basis: 240px; 
+}
+.basket{
+  flex-basis: 350px;
+  text-align: center;
+}

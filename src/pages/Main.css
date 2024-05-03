@@ -1,0 +1,13 @@
+.basket{
+    position: sticky;
+    top: 130px;
+    background-color: rgb(255, 255, 255);
+    height: max-content;
+
+}
+/* .sections{
+    position: sticky;
+    top: 130px;
+    background-color: rgb(255, 255, 255);
+    height: max-content;
+} */
